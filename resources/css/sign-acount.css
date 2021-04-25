@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #00befb;
+}
+
+/* Start navbar */
+.navbar-brand img {
+    width: 10rem;
+    height: 8vh;
+}
+
+
+.btn {
+    border-radius: 2rem;
+}
+
+/* end navbar */
+/* start header */
+.sign-acount {
+    text-align: center;
+}
+.form {
+    height: 30vh;
+    border-radius: 1rem;
+}
+
+.form-control {
+    padding: 2rem;
+    border: 0.1rem solid black;
+}
+
+.social-media-1,
+.social-media-2 {
+    height: 6vh;
+    border-radius: 0.5rem;
+}
+
+.social-media-1 i,
+.social-media-2 i {
+    float: left;
+    color: rgb(0, 60, 255);
+    font-size: 2rem;
+    margin-top: 0.4rem ;
+    margin-left: 1rem ;
+}
+
+.social-media-1 p,
+.social-media-2 p {
+    float: right;
+    margin-right: 10rem;
+    
+}
+
+.btn .btn {
+    text-align: center;
+    border: 0;
+    border-radius: 0.1rem;
+    font-size: 2rem;
+}
+
+/* end of header */
+/* end page */
